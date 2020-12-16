@@ -41,8 +41,8 @@ or download the zip from the green button at the beginning of the repository
 After cloning this repository, just execute the following commands inside the project folder:
 
 ```sh
-	yarn
-	yarn dev
+yarn
+yarn dev
 ```
 
 To test the application wheels you can use [Insomnia](https://insomnia.rest) or [Postman](https://www.postman.com).
